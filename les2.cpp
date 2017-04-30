@@ -1,4 +1,4 @@
-//do it online
+//do it online,new
 #include <iostream>
 using namespace std;
 int main()
